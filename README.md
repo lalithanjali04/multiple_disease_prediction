@@ -46,5 +46,4 @@ streamlit run multiplediseaseprediction.py
 
 6. View the prediction results and any accompanying visualizations or insights.
 
-Feel free to customize the web application's appearance, add more disease prediction models, or integrate additional features based on your specific requirements.
 
